@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Sheet Tools",
   "description": "多功能 Google Sheets 辅助工具。",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Raz1ner",
   "action": {
     "default_icon": "icon/icon.png"
